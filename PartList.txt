@@ -1,0 +1,37 @@
+3D:
+
+7 printed part from 6 file in /PrintedParts
+2 Nema-17 stepper with wires
+20-teeth gear 4 GT-2 belt
+120sm GT-2 belt
+Arduino CNC shield V4
+Arduino Nano
+2 A4988 stepper driver
+5x8 flexible coupling
+
+
+Metal detector:
+
+40x60 breadboard 4 soldering
+IRF540 MOSFET (IRF740/840)
+TL071 amplifier
+2pcs 1N4148 diode
+1 microF 16V capacitor
+10 microF 16V capasitor
+2MOhm
+22R
+2pcs 300R
+2pcs 62k
+2pcs 47k
+20meter of 0.5mm-diameter wire 4 coil
+
+Other:
+
+30x60 sentimeter 4mm-plywood 
+12 3x12 screws 4 wood
+8 3x8 screw 4 Nema-17
+500mm twisted rod + 8nuts
+608 ball bearing
+2m fishing line
+
+
